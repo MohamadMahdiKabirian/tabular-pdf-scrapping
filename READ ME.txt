@@ -1,0 +1,7 @@
+# Tabluar PDF SCrapping 
+
+Tabluar PDF Scrapping helps you scrap the text data into a sqlite3 database.
+
+libraries used :
+Pandas and sqlite3
+
